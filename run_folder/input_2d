@@ -1,0 +1,14 @@
+0.01	//dm
+0.02	//dr
+0.0025	//dt
+3000	//TIME
+1	//max_particle_size
+200	//TOTAL FRAMES;
+1.0	//length_x
+0.5	//length_y
+0.3	//init_velocity_x
+0.5	//volume_fraction
+1000.0	//gravity
+1.0	//particle_density
+0.1	//fluid_density
+0.005	//fluid_viscosity
